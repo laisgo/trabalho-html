@@ -1,0 +1,31 @@
+.principal {
+    
+    color:#FFF;
+    text-align: left;
+}    .principal1 {
+        width: 33.333%;
+        height: 150px;
+        display: inline;
+}
+.principal {
+    color: #FFF;
+}    .principal2 {
+        width: 33.333%;
+        height: 150px;        
+        display: inline;    }
+.principal {
+    color: #FFF;
+}    .principal3 {
+         width: 33.333%;
+        height: 150px;        
+        display: inline;}
+    .principal1 {
+        background-color:#87CEFA;
+        color: white;
+    }
+    .principal2{
+        background-color: #cc5233;
+    }
+    .principal3 {
+        background-color: #f2f26e;
+    }
