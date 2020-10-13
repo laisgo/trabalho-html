@@ -8,17 +8,26 @@
         display: inline;
 }
 
-    .principal1 {
+    #principal1 {
         background-color:#51b2ee;
     }
-    .principal2{
+    #principal2{
         background-color: #51b2ee;
     }
-    .principal3 {
+    #principal3 {
         background-color: #51b2ee;
     }
 
 #menu{
     background-image: url();
     background-repeat: no-repeat;
+}
+
+body{
+    background-image: url(https://i.ytimg.com/vi/XG95mCQV460/maxresdefault.jpg);
+    background-repeat: no-repeat;
+}
+
+h1{
+    color: red;
 }
